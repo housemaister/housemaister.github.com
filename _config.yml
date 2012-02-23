@@ -77,7 +77,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: housemaister
+googleplus_user: 118039002775214625508
 googleplus_hidden: false
 
 # Pinboard
@@ -89,11 +89,12 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: housemaister
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
